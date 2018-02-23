@@ -1,4 +1,6 @@
-# Artigo 00
+# Artigo 00 - Imaxes libres
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Fotografía macro baixo licenza CC BY-SA
+
+![](/assets/_MG_7548.jpg)
 
