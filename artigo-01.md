@@ -18,9 +18,13 @@ Se coñecemos a dirección http polo que emite o streaming a radio que nos inter
 
 ![](/assets/import.png)
 
-As url podemos buscalas nalgunha recopilación que anda pola rede, obtela da web oficial da radio ou a través de https://tunein.com/ da seguinte forma:
+As url podemos buscalas nalgunha recopilación que anda pola rede, obtela da web oficial da radio ou a través de [https://tunein.com/](https://tunein.com/) da seguinte forma:
 
 Abrimos TuneIn no navegador Firefox e buscamos a radio que nos interesa en TuneIn, neste caso o exemplo é con Radio 3 de RNE, e deixamola  reproducir un par de minutos
 
-![](/assets/import2.png)
+![](/assets/import2.png)Pulsamos o botón dereito do rato e seleccionamos Inspeccionar elemento.
+
+![](/assets/import3.png)Aparecerá o menú inferior, seleccionamos a opción de Rede \(círculo vermello\) e ordenamos por Tamaño os resultados. Buscamos o elemento que ocupa máis tamaño\(tipo media mpeg\), pulsamos o botón dereito do rato encima del e copiamos a url.
+
+Esta url será a que peguemos no VLC como vimos máis arriba.
 
