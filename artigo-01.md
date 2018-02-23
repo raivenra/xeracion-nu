@@ -12,7 +12,15 @@ Pois porque desa forma non necesitamos ter máis aplicacións instaladas ou ter 
 
 VLC podemos descargalo desde a sua web oficial, onde temos tamén as instruccións de instalación.
 
-Se coñecemos a dirección http polo que emite o streaming a radio que nos interesa, podemos usala no VLC deste xeito: 
+Se coñecemos a dirección http polo que emite o streaming a radio que nos interesa, podemos usala no VLC deste xeito:
 
 **Medio&gt;Abrir ubicación de rede&gt;Rede** insertamos a url no recadro e pulsamos no botón reproducir.
+
+![](/assets/import.png)
+
+As url podemos buscalas nalgunha recopilación que anda pola rede, obtela da web oficial da radio ou a través de https://tunein.com/ da seguinte forma:
+
+Abrimos TuneIn no navegador Firefox e buscamos a radio que nos interesa en TuneIn, neste caso o exemplo é con Radio 3 de RNE, e deixamola  reproducir un par de minutos
+
+![](/assets/import2.png)
 
