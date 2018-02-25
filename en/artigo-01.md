@@ -16,7 +16,7 @@ Se coñecemos a dirección http polo que emite o streaming a radio que nos inter
 
 **Medio&gt;Abrir ubicación de rede&gt;Rede** insertamos a url no recadro e pulsamos no botón reproducir.
 
-![](/assets/import.png)
+![](/en/assets/import.png)
 
 As url podemos buscalas nalgunha recopilación que anda pola rede, obtela da web oficial da radio ou a través de [https://tunein.com/](https://tunein.com/) da seguinte forma:
 
