@@ -2,5 +2,5 @@
 
 Fotografía macro baixo licenza CC BY-SA
 
-![](/assets/_MG_7548.jpg)
+![](/en/assets/_MG_7548.jpg)
 
