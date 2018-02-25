@@ -2,5 +2,5 @@
 
 Text
 
-![](/assets/_MG_7548.jpg)
+![](/en/assets/_MG_7548.jpg)
 
