@@ -16,15 +16,11 @@ _cursiva_
 
 !\[foto flor\]\([https://es.wikipedia.org/wiki/Flor\#/media/File:Magnolia\_grandiflora1Stuart\_Yeates.jpg\](https://es.wikipedia.org/wiki/Flor#/media/File:Magnolia_grandiflora1Stuart_Yeates.jpg%29\)
 
-
-
 > lasjdf a dfla jsfajdlsf adfjla djs afasfasdfa sd.
 >
 > lasdkjfla  jfafla dsfl asldfjlasj fasfñasdjf.
 >
 > lajdfla jfkajdsflj asdlkg jwle jlsej gls. djslaj flka sjla f.as fjlads fldfsj.
 
-
-
-!\[gras\]\(img/assets/\_MG\_7548.jpg\)
+!\[gras\]\(/assets/\_MG\_7548.jpg\)
 
