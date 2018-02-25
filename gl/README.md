@@ -1,4 +1,5 @@
 # Xeración Ñu - Publicación 00
+
 Galego
 
 ![](/assets/portada.png)
@@ -11,5 +12,5 @@ Publicación sobre a cultura libre
 
 _cursiva_
 
-![gras\](/assets/_MG_7548.jpg)
+![](/assets/_MG_7548.jpg)
 
