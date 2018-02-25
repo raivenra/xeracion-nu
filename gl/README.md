@@ -2,5 +2,5 @@
 
 Galego
 
-![](/gl/assets/portada.png)
+![](/assets/portada.png)
 
