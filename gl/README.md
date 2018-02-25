@@ -2,5 +2,5 @@
 
 Galego
 
-![](xeracion-nu/assets/portada02.png)
+![](/assets/portada02.png)
 
