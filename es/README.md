@@ -2,7 +2,7 @@
 
 Español
 
-![](/es/assets/portada.png)
+![](/assets/portada.png)
 
 Publicación sobre a cultura libre
 
