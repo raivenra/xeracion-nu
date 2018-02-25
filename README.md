@@ -14,15 +14,7 @@ _cursiva_
 ![foto flor](https://es.wikipedia.org/wiki/Flor#/media/File:Magnolia_grandiflora1Stuart_Yeates.jpg)
 ```
 
-
-
-
-
-
-
-!\[foto flor\]\(https://es.wikipedia.org/wiki/Flor\#/media/File:Magnolia\_grandiflora1Stuart\_Yeates.jpg\)
-
-
+!\[foto flor\]\([https://es.wikipedia.org/wiki/Flor\#/media/File:Magnolia\_grandiflora1Stuart\_Yeates.jpg\](https://es.wikipedia.org/wiki/Flor#/media/File:Magnolia_grandiflora1Stuart_Yeates.jpg\)\)
 
 
 
