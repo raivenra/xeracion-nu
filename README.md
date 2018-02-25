@@ -12,3 +12,7 @@ _cursiva_
 
 ![gras\](/assets/_MG_7548.jpg)
 
+Engadindo texto
+*elemento 1
+*elemento 2
+
