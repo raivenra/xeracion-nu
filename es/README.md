@@ -1,7 +1,8 @@
 # Xeración Ñu - Publicación 00
+
 Español
 
-![](/assets/portada02.png)
+![](/es/assets/portada.png)
 
 Publicación sobre a cultura libre
 
