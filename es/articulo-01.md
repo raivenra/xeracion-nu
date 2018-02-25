@@ -2,5 +2,5 @@
 
 blabl ablvja lj vblab j
 
-![](/assets/_MG_7548.jpg)
+![](/es/assets/_MG_7548.jpg)
 
