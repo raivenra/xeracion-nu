@@ -2,5 +2,5 @@
 
 Artigo blal bal
 
-![](/assets/_MG_7548.jpg)
+![](/gl/assets/_MG_7548.jpg)
 
