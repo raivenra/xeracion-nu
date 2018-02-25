@@ -1,4 +1,4 @@
 # Summary
 
-* [Intro](README.md)
+* [Intro](/gl/README.md)
 
