@@ -22,5 +22,5 @@ _cursiva_
 >
 > lajdfla jfkajdsflj asdlkg jwle jlsej gls. djslaj flka sjla f.as fjlads fldfsj.
 
-!\[gras\]\(/assets/\_MG\_7548.jpg\)
+![gras\](/assets/_MG_7548.jpg)
 
