@@ -2,5 +2,5 @@
 
 English
 
-![](/en/assets/portada.png)
+![](/assets/portada02.png)
 
