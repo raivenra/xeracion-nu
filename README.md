@@ -1,6 +1,6 @@
-![](/assets/barra superior.png)
+![](/assets/barra superior 1000.png)
 
-# 
+![](/assets/barra superior 800.png)
 
 # Xeración Ñu - Publicación 00
 
