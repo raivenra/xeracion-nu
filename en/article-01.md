@@ -1,6 +1,10 @@
-## Título 01
+## Macrofotos libres
 
-Text
+![](/assets/Macrofoto01-Guillermo-Garabatos.jpg)
 
-![](/assets/_MG_7548.jpg)
+![](/assets/Macrofoto02-Guillermo-Garabatos.jpg)
+
+![](/assets/Macrofoto03-Guillermo-Garabatos.jpg)
+
+![](/assets/Macrofoto04-Guillermo-Garabatos.jpg)
 
