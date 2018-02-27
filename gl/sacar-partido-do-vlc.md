@@ -1,4 +1,4 @@
-# ![](/assets/cabeceira_XÑ-Jorge_Lama.png)Sacar partido do VLC	
+# ![](/assets/cabeceira_XÑ-Jorge_Lama.png)Sacar partido do VLC
 
 Esta é unha serie de artigos pensados para aproveitar o potencial de VLC.
 
